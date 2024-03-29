@@ -14,6 +14,7 @@
 #include <map>
 
 #include "Config.h"
+#include "ActivityBuffers.h"
 #ifdef HAS_CUPTI
 #include "CudaDeviceProperties.h"
 #endif // HAS_CUPTI
